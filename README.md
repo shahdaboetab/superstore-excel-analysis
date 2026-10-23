@@ -5,8 +5,8 @@ drives sales and profit, built for the **UneeQ Interns** Data Analysis
 program.
 
 ## Dashboard
-![Dashboard](screenshots/dashboard.Jpng)
-![Filtered to 2017](screenshots/dashboard_2017.Jpng)
+![Dashboard](screenshots/dashboard.jpng)
+![Filtered to 2017](screenshots/dashboard_2017.jpng)
 
 ## Problem
 Management needs to know how the business is performing and where it
