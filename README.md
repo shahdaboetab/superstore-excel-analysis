@@ -5,8 +5,8 @@ drives sales and profit, built for the **UneeQ Interns** Data Analysis
 program.
 
 ## Dashboard
-![Dashboard](screenshots/dashboard.jpng)
-![Filtered to 2017](screenshots/dashboard_2017.jpng)
+![Dashboard](dashboard.jpeg)
+![Filtered to 2017](dashboard_2017.jpeg)
 
 ## Problem
 Management needs to know how the business is performing and where it
@@ -46,12 +46,14 @@ is losing profit.
 |---|---|
 | `Superstore_Analysis.xlsx` | Cleaned data, pivots, dashboard |
 | `Insight_Memo.md` | One-page business memo |
-| `screenshots/` | Dashboard images |
+| `dashboard.jpeg`, `dashboard_2017.jpeg` | Dashboard screenshots |
 
 ## Assumptions and limitations
 - Region targets and managers are illustrative (not in the source data).
 - No cost or returns data; correlation is not causation.
 
+## Video walkthrough
+[Watch here](PUT-LINK-HERE)
 
 
 ## Author
