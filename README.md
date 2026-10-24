@@ -53,7 +53,7 @@ is losing profit.
 - No cost or returns data; correlation is not causation.
 
 ## Video walkthrough
-[Watch here](PUT-LINK-HERE)
+[Watch here]([PUT-LINK-HERE](https://youtu.be/gAULTAPrXeo))
 
 
 ## Author
