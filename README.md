@@ -1,9 +1,7 @@
 # Superstore Sales Analysis | Excel
 
 Business analysis of 9,993 order lines (2014-2017) to understand what
-drives sales and profit, built for the **UneeQ Interns** Data Analysis
-program.
-
+drives sales and profit.
 ## Dashboard
 ![Dashboard](dashboard.jpeg)
 ![Filtered to 2017](dashboard_2017.jpeg)
